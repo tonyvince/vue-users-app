@@ -1,4 +1,8 @@
 # vue-users-app
+This project is Vue.js application that demonstrates
+- Utilizing cursor-based pagination for fetching user data from an API backend.
+- Implementing JWT-based authentication with access tokens stored in local storage and
+- Basic styling using Tailwind CSS.
 
 ## Project setup
 ```
@@ -9,6 +13,7 @@ yarn install
 ```
 yarn serve
 ```
+**Make sure the rails app is running on http://localhost:3000**
 
 ### Compiles and minifies for production
 ```
